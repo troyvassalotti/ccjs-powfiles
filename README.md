@@ -1,6 +1,6 @@
 # A .png is Worth an Entire Website
 
-_ A charmCityJS talk_.
+_A charmCityJS talk_.
 
 ## Relevant Links
 
